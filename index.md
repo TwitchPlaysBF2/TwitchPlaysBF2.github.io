@@ -2,7 +2,7 @@
 
 ### Battlefield 2 Localization File here:
 
- * https://TwitchPlaysBF2.github.io/Localization_Files_BF2
+ * <a href="https://TwitchPlaysBF2.github.io/Localization_Files_BF2">https://TwitchPlaysBF2.github.io/Localization_Files_BF2</a>
 
 ### Get in touch here:
 
