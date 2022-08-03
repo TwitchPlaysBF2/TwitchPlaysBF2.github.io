@@ -3,8 +3,7 @@
 Battlefield 2 lets you change language files. You can also change text color and size. I modified the English file to fit my needs. Bigger spot messages, kill messages, better info texts and more.
 
 ## English.utxt
--  [ <a href="https://github.com/TwitchPlaysBF2/Localization_Files_BF2/releases/latest/download/English.utxt">DOWNLOAD the latest version here</a> ] - stable release (recommended)
--  [ <a href="https://raw.githubusercontent.com/TwitchPlaysBF2/Localization_Files_BF2/main/English/English.utxt" target="_blank">View the work-in-progress version here</a> ] - could have problems (preview of next version)
+-  [ <a href="https://github.com/TwitchPlaysBF2/Localization_Files_BF2/releases/latest/download/English.utxt">DOWNLOAD the latest version here</a> ] - stable release
 
 ## Instructions
 
